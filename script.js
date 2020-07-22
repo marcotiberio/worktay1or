@@ -20,4 +20,5 @@ $(function () { // wait for document ready
     .setTween(horizontalSlide)
     //.addIndicators() // add indicators (requires plugin)
     .addTo(controller);
+
 });
